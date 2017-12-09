@@ -1,7 +1,7 @@
 
 @import url("/style/reset.css");
 body {background:#313131; margin:0;padding:0;color:#727373;height:100%;}
-body, table, tr, td {font-family:Neucha,Verdana,Tahoma;font-size:14px;font-style:normal;}
+body, table, tr, td {font-family: 'Neucha', cursive;font-size:14px;font-style:normal;}
 hr {border:none;margin:5px 0;}
 p {line-height: 1.5;}
 
