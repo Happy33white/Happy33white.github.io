@@ -1,7 +1,7 @@
 
 @import url("/style/reset.css");
 body {background:#313131; margin:0;padding:0;color:#727373;height:100%;}
-body, table, tr, td {font-family: 'Neucha',Verdana,Tahoma;font-weight: bold;font-size:14px;font-style:normal;}
+body, table, tr, td {font-family:Neucha,Verdana,Tahoma;font-size:14px;font-style:normal;}
 hr {border:none;margin:5px 0;}
 p {line-height: 1.5;}
 
@@ -17,7 +17,7 @@ a:visited{color:##f64747;}
 #IndexHeadLogo img{width:100%;height:auto;}
 #IndexHeadLogo:hover{background:#276B4B;}
 
-#HeadName{display:flex;align-items:center;justify-content:center;height: 100%;width:290px;}
+#HeadName{display:flex;align-items:center;justify-content:center;height: 100%;width:290px;font-weight: bold;}
 #HeadNameLogo p {color:#c6c6c6;font-size:33px;text-align:center;padding-bottom:22px;border-bottom:1px solid #727373;}
 #HeaderNameJob{text-align:center;padding-top:15px;}
 #HeaderNameJob span {font-size:15px;}
