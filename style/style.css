@@ -1,0 +1,12 @@
+
+@import url("/style/reset.css");
+body {background:#313131; margin:0;padding:0;color:#727373;height:100%;}
+body, table, tr, td {font-family:PT Sans Caption,Verdana,Tahoma;font-size:14px;font-style:normal;}
+hr {border:none;margin:5px 0;}
+p {line-height: 1.5;}
+
+a{text-decoration:none;}
+a:link{color:#296C4B;}
+a:visited{color:##f64747;}
+
+::-webkit-scrollbar-button{width:3px;height:0px} ::-webkit-scrollbar-track {background-color:#F6F9FC} ::-webkit-scrollbar-thumb {-webkit-border-radius: 0px;border-radius: 0px;background-color:#4E566B;} ::-webkit-scrollbar-thumb:hover{background-color:#56999f;} ::-webkit-resizer{width:4px;height:0px} ::-webkit-scrollbar{width: 6px;}
