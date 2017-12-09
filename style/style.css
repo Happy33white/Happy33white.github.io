@@ -29,6 +29,7 @@ a:visited{color:##f64747;}
 @media screen and (max-width: 760px) {
   #HeadAdress{float:left;}
   #IndexBody{width:96%;padding:10px 2%;}
+  #IndexHead{width:96%;}
 }
 
 
