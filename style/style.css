@@ -17,7 +17,7 @@ a:visited{color:##f64747;}
 #IndexHeadLogo img{width:100%;height:auto;}
 #IndexHeadLogo:hover{background:#276B4B;}
 
-#HeadName{display:flex;align-items:center;justify-content:center;height: 100%;}
+#HeadName{display:flex;align-items:center;justify-content:center;height: 100%;width:290px;}
 #HeadNameLogo p {color:#c6c6c6;font-size:33px;text-align:center;}
 
 
