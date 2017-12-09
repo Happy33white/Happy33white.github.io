@@ -18,6 +18,6 @@ a:visited{color:##f64747;}
 #IndexHeadLogo:hover{background:#276B4B;}
 
 #HeadName{float:right;}
-#HeadNameLogo{color:#c6c6c6;font-size:33px;text-align:center;}
+#HeadNameLogo p {color:#c6c6c6;font-size:33px;text-align:center;}
 
 
