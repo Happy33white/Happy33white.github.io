@@ -27,7 +27,7 @@ a:visited{color:##f64747;}
 #HeadAdress li span {color:#296c4b;font-size:17px;font-weight: bold;}
 
 @media screen and (max-width: 760px) {
-  #HeadNameJob{float:left;}
+  #HeadAdress{float:left;}
 }
 
 
