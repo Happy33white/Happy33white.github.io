@@ -11,7 +11,8 @@ a:visited{color:##f64747;}
 
 ::-webkit-scrollbar-button{width:3px;height:0px} ::-webkit-scrollbar-track {background-color:#F6F9FC} ::-webkit-scrollbar-thumb {-webkit-border-radius: 0px;border-radius: 0px;background-color:#4E566B;} ::-webkit-scrollbar-thumb:hover{background-color:#56999f;} ::-webkit-resizer{width:4px;height:0px} ::-webkit-scrollbar{width: 6px;}
 
-#IndexBody{margin:0 auto 0;background:#1A1A1A;width:1544px;height:100%;min-height:1000px;}
+#IndexBody{margin:0 auto 0;background:#1A1A1A;width:1544px;height:100%;min-height:1000px;
+border:1px solid #1f372b;}
 #IndexHead{width:1300px;height:213px;padding:60px 130px 0 130px;}
 #IndexHeadLogo{width:252px;height:176px;background:#1E362A;float:left;}
 #IndexHeadLogo img{width:100%;height:auto;}
