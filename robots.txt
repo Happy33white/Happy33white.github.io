@@ -4,4 +4,6 @@ User-agent: Googlebot-Image
 User-agent: Yandex
 User-agent: YandexImages
 Host: www.sarkasar.ru
+Sitemap: http://путь к вашей карте XML формата
 Disallow:
+
